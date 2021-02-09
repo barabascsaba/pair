@@ -1,0 +1,11 @@
+# Default value.
+field.value.pair_pair:
+  type: mapping
+  label: Default value
+  mapping:
+    first:
+      type: integer
+      label: First
+    second:
+      type: integer
+      label: Second

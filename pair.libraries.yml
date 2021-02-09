@@ -1,0 +1,4 @@
+pair_pair:
+  css:
+    component:
+      css/pair-pair-widget.css: {}
